@@ -14,8 +14,10 @@ const Home = () => {
         {/* text */}
       <div className="text-center xl:text-left order-2 xl:order-none">
         <span className="text-xl">Software Developer</span>
-        <h1 className="h1 mb-6">Hello I'm <br /> <span className="text-accent">Shubham Tambe</span>
-        </h1>
+        <h1 className="h1 mb-6">
+  Hello I&apos;m <br />
+  <span className="text-accent">Shubham Tambe</span>
+</h1>
         <p className="max-w-[500px] mb-9 text-white/80">I excel at crafting elegant digital experiences and I am proficient in various programming languages and technologies.</p>
         {/* btn and socials */}
         <div className="flex flex-col xl:flex-row items-center gap-8">
