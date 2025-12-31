@@ -59,7 +59,7 @@ const projects = [
   { name: "Figma" },
   { name: "UI Design" },
   { name: "Dashboard Design" },],
-    image: "/assets/work/HealthCareDashboard.png",
+    image: "/assets/work/healthcaredashboard.png",
     live: "",
     github: "",
   },
